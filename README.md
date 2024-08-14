@@ -1,2 +1,3 @@
 # myfirstrepo
-exploring GitHub for the first time
+Exploring GitHub for the first time
+Author-Bhavleenkaurr
